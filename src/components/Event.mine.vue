@@ -90,10 +90,7 @@
     </el-table-column>
   </el-table>
 
-  <!------------------------------------------------------------------------------------------------------------------->
-
   <p></p>
-
   <nav class="navbar navbar-light bg-faded">
     <span class="navbar-text"> Events I created </span>
   </nav>
